@@ -1,4 +1,4 @@
-<img src="./neon_brick_atb.min.png" style="width:100%; height: 300px; object-fit: cover;" />
+![2020, 2021 &copy; A. Taha Baki's Wall](./neon_brick_atb.wall.min.png)
 
 ## My Favorite Languages
 
