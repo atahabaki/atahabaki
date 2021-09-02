@@ -1,7 +1,5 @@
 ![2020, 2021 &copy; A. Taha Baki's Wall](./neon_brick_atb.wall.min.png)
 
-![Badges](https://github-profile-trophy.vercel.app/?username=atahabaki&column=4&margin-w=15&margin-h=15&theme=gruvbox)
-
 ## My Favorite Languages
 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
