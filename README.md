@@ -15,5 +15,5 @@
 		An android app for linguists...
 * [Smart Search](https://github.com/atahabaki/smart-search):
 		A web browser extension which is eases the way you search.
-* [Ash](https://github.com/atahabaki/ash)
+* [Ash](https://github.com/atahabaki/ash):
 		Yet another cross-platform shell, A. Taha Baki's Shell 🎉
