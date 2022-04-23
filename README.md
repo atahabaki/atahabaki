@@ -13,7 +13,5 @@
 		Ease of use toolbox for android smartphones, designed for testers and rom developers.
 * [WordBook](https://github.com/atahabaki/wordbook-android):
 		An android app for linguists...
-* [Smart Search](https://github.com/atahabaki/smart-search):
-		A web browser extension which is eases the way you search.
-* [Ash](https://github.com/atahabaki/ash):
-		Yet another cross-platform shell, A. Taha Baki's Shell 🎉
+* [rustymd](https://github.com/atahabaki/rustymd):
+		Markdown compiler written in Rust...
