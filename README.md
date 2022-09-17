@@ -9,11 +9,12 @@
 🧑‍💻 I'm currently working on [weather_cli](https://github.com/atahabaki/weather_cli).
 
 
-## ⭐ Favorite Languages
+## ⭐ Languages & Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-8FFF6D.svg?style=for-the-badge&logo=Neovim&logoColor=black)
 
 ## 📁 Projects
 
@@ -24,7 +25,7 @@
 * [rustymd](https://github.com/atahabaki/rustymd):
 		Markdown compiler written in Rust...
 
-## 📬 Contact me via
+## 📬 Links
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://atahabaki.medium.com/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/atahabaki)
