@@ -2,7 +2,7 @@
 
 ## 👋 Hi!
 
-✨ IDK what motivates me, but I really love creating interesting, maybe fabulous, open-source projects.
+✨ I really enjoy creating interesting, maybe fabulous, open-source projects.
 
 🧩 I love debugging weird issues to be able to make the next baby-step.
   
