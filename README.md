@@ -6,7 +6,7 @@
 
 🧩 I love debugging weird issues to be able to make the next baby-step.
   
-🧑‍💻 I'm currently working on [weather_cli](https://github.com/atahabaki/weather_cli).
+🧑‍💻 I'm currently working on [quickie](https://github.com/atahabaki/quickie).
 
 
 ## ⭐ Languages & Tools
@@ -22,8 +22,8 @@
 		Ease of use toolbox for android smartphones, designed for testers and rom developers.
 * [WordBook](https://github.com/atahabaki/wordbook-android):
 		An android app for linguists...
-* [rustymd](https://github.com/atahabaki/rustymd):
-		Markdown compiler written in Rust...
+* [quickie](https://github.com/atahabaki/rustymd):
+		Direct jump to search results. A browser extension which is serves the similar purpose of DuckDuckGo !Bangs.
 
 ## 📬 Links
 
