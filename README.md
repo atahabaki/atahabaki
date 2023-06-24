@@ -6,7 +6,7 @@
 
 🧩 I love debugging weird issues to be able to make the next baby-step.
   
-🧑‍💻 I'm currently working on [quickie](https://github.com/atahabaki/quickie).
+🧑‍💻 I'm currently working on [bracoxide](https://github.com/atahabaki/bracoxide).
 
 
 ## ⭐ Languages & Tools
@@ -22,7 +22,7 @@
 		Ease of use toolbox for android smartphones, designed for testers and rom developers.
 * [WordBook](https://github.com/atahabaki/wordbook-android):
 		An android app for linguists...
-* [quickie](https://github.com/atahabaki/rustymd):
+* [Quickie](https://github.com/atahabaki/quickie):
 		Direct jump to search results. A browser extension which is serves the similar purpose of DuckDuckGo !Bangs.
 
 ## 📬 Links
