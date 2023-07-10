@@ -6,7 +6,7 @@
 
 🧩 I love debugging weird issues to be able to make the next baby-step.
   
-🧑‍💻 I'm currently working on [bracoxide](https://github.com/atahabaki/bracoxide).
+🧑‍💻 I'm currently working on [rofi-wifi-menu](https://github.com/atahabaki/rofi-wifi-menu).
 
 
 ## ⭐ Languages & Tools
