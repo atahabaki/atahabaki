@@ -6,7 +6,7 @@
 
 🧩 I love debugging weird issues to be able to make the next baby-step.
   
-🧑‍💻 I'm currently working on [rofi-wifi-menu](https://github.com/atahabaki/rofi-wifi-menu).
+🧑‍💻 I'm currently working on [nushell](https://github.com/nushell/nushell).
 
 
 ## ⭐ Languages & Tools
