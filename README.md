@@ -15,6 +15,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-8FFF6D.svg?style=for-the-badge&logo=Neovim&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
 
 ## 📁 Projects
 
