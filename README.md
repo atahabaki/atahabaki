@@ -1,4 +1,4 @@
-![2020, 2023 &copy; A. Taha Baki's Wall](./neon_brick_atb.wall.min.png)
+![2023 &copy; A. Taha Baki's Wall](ATB_logo.webp)
 
 ## 👋 Hi!
 
