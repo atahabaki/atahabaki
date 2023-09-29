@@ -6,7 +6,7 @@
 
 🧩 I love debugging weird issues to be able to make the next baby-step.
   
-🧑‍💻 I'm currently working on [nushell](https://github.com/nushell/nushell).
+🧑‍💻 I'm currently working on [bracoxide](https://github.com/atahabaki/bracoxide) and [Bevy Input Mapper Plugin](https://github.com/atahabaki/bevy_input_mapper).
 
 
 ## ⭐ Languages & Tools
